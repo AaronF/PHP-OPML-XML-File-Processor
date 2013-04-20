@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Subscriptions in Google Reader</title>
+    </head>
+    <body>
+        <outline text="Ars Technica" title="Ars Technica" type="rss"
+            xmlUrl="http://feeds.arstechnica.com/arstechnica/index/" htmlUrl="http://arstechnica.com"/>
+        <outline text="Engadget RSS Feed" title="Engadget RSS Feed"
+            type="rss" xmlUrl="http://www.engadget.com/rss.xml" htmlUrl="http://www.engadget.com"/>
+        <outline text="Lifehacker" title="Lifehacker" type="rss"
+            xmlUrl="http://lifehacker.com/index.xml" htmlUrl="http://lifehacker.com"/>
+        <outline text="The Official Google Blog"
+            title="The Official Google Blog" type="rss"
+            xmlUrl="http://googleblog.blogspot.com/feeds/posts/default" htmlUrl="http://googleblog.blogspot.com/"/>
+        <outline text="The Verge -  All Posts"
+            title="The Verge -  All Posts" type="rss"
+            xmlUrl="http://theverge.com/rss/index.xml" htmlUrl="http://www.theverge.com/"/>
+        <outline text="TUAW - The Unofficial Apple Weblog"
+            title="TUAW - The Unofficial Apple Weblog" type="rss"
+            xmlUrl="http://www.tuaw.com/rss.xml" htmlUrl="http://www.tuaw.com"/>
+        <outline text="xkcd.com" title="xkcd.com" type="rss"
+            xmlUrl="http://xkcd.com/rss.xml" htmlUrl="http://xkcd.com/"/>
+    </body>
+</opml>
